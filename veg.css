@@ -15,7 +15,7 @@ letter-spacing: 3px;
 
 .navigate {
 	overflow: hidden;
-    	background-color:green;
+    	background-color:orange;
 	text-transform: uppercase;
 	position:sticky;
 	text-color:indigo;
@@ -34,8 +34,3 @@ letter-spacing: 3px;
 .navigate a:hover {
     background-color: #ddd;
     color: red;}
-#grad1 {
-    height: 3000px;
-    background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(to right, red , yellow); /* Standard syntax (must be last) */
-}
